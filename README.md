@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on a project **[Doctor Appointment](https://github.com/mobaarok/doctor-appointment) **
 - 🌱 I’m now preparing for the IELTS
+- 💻 I'm decided to rebuild my programming problem-solving skill
 - 👯 I'm looking to collaborate on **resource documentation on bangla**
 - 💬 Ask me about **programming life**
 - 📫 How to reach me: Mail **rubelc04@gmail.com** Phone **+8801635449686**
