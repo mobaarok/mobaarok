@@ -2,7 +2,7 @@
 # I'm Mobarok Hossain Rubel :child:
   **💻Laravel & Lumen Application Developer**
 
-- 🔭 I’m currently working on a project **[Doctor Appointment](https://github.com/mobaarok/doctor-appointment) **
+- 🔭 I’m currently working on a project **[Doctor Appointment](https://github.com/mobaarok/doctor-appointment)**
 - 🌱 I’m now preparing for the IELTS
 - 💻 I'm decided to rebuild my programming problem-solving skill
 - 👯 I'm looking to collaborate on **resource documentation on bangla**
