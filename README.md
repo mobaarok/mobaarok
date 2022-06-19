@@ -1,13 +1,11 @@
 **Hi there 👋**
 # I'm Mobarok Hossain Rubel :child:
-  **💻Laravel & Lumen Application Developer**
+  **💻Problem solving**
 
-- 🔭 I’m currently working on a project **[Doctor Appointment](https://github.com/mobaarok/doctor-appointment)**
-- 🌱 I’m now preparing for the IELTS
-- 💻 I'm decided to rebuild my programming problem-solving skill
+- 🔭 I’m currently working on me
+- 🌱 I’m now preparing for the IELTS Test
 - 👯 I'm looking to collaborate on **resource documentation on bangla**
-- 💬 Ask me about **programming life**
-- 📫 How to reach me: Mail **rubelc04@gmail.com** Phone **+8801635449686**
+- 📫 How to reach me: Mail **mobaarok@outlook.com** Phone **+8801635449686**
 
 ![Mobarok's github status](https://github-readme-stats.vercel.app/api?username=mobaarok&count_private=true&show_icons=true&hide=issues&theme=dracula)
 
